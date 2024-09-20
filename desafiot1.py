@@ -1,4 +1,4 @@
-# Crinado Menu
+# Criando Menu
 menu = """
 ========================= MENU ======================
 [1] Depositar
